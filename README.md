@@ -1,1 +1,1 @@
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nghuyhoang2509)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghuyhoang2509&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
